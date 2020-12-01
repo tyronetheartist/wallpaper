@@ -1,3 +1,4 @@
+theme: minima
 name: Tyrone's art store
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
