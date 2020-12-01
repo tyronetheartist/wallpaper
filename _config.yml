@@ -1,4 +1,5 @@
-theme: minima
+solarized:
+  theme:     dark
 title: Tyrone's art store
 author: tyrone
 email: tyrinfern@domain.com
