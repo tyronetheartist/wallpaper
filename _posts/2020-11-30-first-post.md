@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tyrone, Launches Site"
+title: "Tyrone Launches Site"
 date: 2020-11-30
 ---
 
