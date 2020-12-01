@@ -1,7 +1,6 @@
 theme: minima
-title: Tyrone's art store
-author: tyrone
-email: tyrinfern@domain.com
+#title: Tyrone's art store
+
 description: > # this means to ignore newlines until "baseurl:"
   Art store that makes a wallpaper consisting of 2 of my paintings for $2.
   
