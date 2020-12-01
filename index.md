@@ -1,8 +1,3 @@
----
-layout: default
-title: Tyrone's Art Store
----
-<div class="blurb">
-	<h1>Hi there, Welcome to my store!</h1>
-	<p>Pick 2 pictures, choose your orientation and get an instant wallpaper!
-</div><!-- /.blurb -->
+# Welcome to my little art store
+
+I've added a bit of code to it to make you an instant wallpaper consisting of 2 of my paintings. Pick any 2 that you like, pay the toll ($2) and get a lovely wallpaper instantly!
