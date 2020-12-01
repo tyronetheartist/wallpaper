@@ -1,4 +1,8 @@
 theme: minima
-name: Tyrone's art store
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: Tyrone's art store
+author: tyrone
+email: tyrinfern@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Art store that makes a wallpaper consisting of 2 of my paintings for $2.
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
