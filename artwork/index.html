@@ -6,6 +6,6 @@ title: Paintings
 	<ul class="paintings">
 
 	  {% for paintings in site.paintings %}
-	    <li><span>{{ paintings.date | date_to_string }}</span> » <a href="{{ paintings.url }}" title="{{ paintings.title }}">{{ paitings.title }}</a></li>
+	    <li><span>{{ paintings.date | date_to_string }}</span> » <a href="{{ paintings.url }}" title="{{ paintings.title }}">{{ paintings.title }}</a></li>
 	  {% endfor %}
 	</ul>
